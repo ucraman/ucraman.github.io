@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-1/</loc>
+    <lastmod>2017-05-23T00:04:11-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ucraman.github.io/</loc>
+    <lastmod>2017-05-23T00:04:11-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ucraman.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ucraman.github.io/poem/</loc>
+    <lastmod>2017-05-23T00:04:11-03:00</lastmod>
     <priority>0</priority>
   </url>
   
