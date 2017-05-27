@@ -13,13 +13,19 @@
   </url>
   
   <url>
+    <loc>https://ucraman.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ucraman.github.io/</loc>
     <lastmod>2017-05-23T00:19:06-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ucraman.github.io/categories/</loc>
+    <loc>https://ucraman.github.io/tags/poema-corto/</loc>
+    <lastmod>2017-05-23T00:19:06-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +36,14 @@
   </url>
   
   <url>
+    <loc>https://ucraman.github.io/tags/poesia/</loc>
+    <lastmod>2017-05-23T00:19:06-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ucraman.github.io/tags/</loc>
+    <lastmod>2017-05-23T00:19:06-03:00</lastmod>
     <priority>0</priority>
   </url>
   
