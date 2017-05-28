@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matematica, es personal.</title>
-    <link>http://replace-this-with-your-domain.com/tags/</link>
+    <link>https://ucraman.github.io/tags/</link>
     <description>Recent content in Tags on Matematica, es personal.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Tue, 23 May 2017 00:19:06 -0300</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-domain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ucraman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Poema Corto</title>
-      <link>http://replace-this-with-your-domain.com/tags/poema-corto/</link>
+      <link>https://ucraman.github.io/tags/poema-corto/</link>
       <pubDate>Tue, 23 May 2017 00:19:06 -0300</pubDate>
       
-      <guid>http://replace-this-with-your-domain.com/tags/poema-corto/</guid>
+      <guid>https://ucraman.github.io/tags/poema-corto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poesia</title>
-      <link>http://replace-this-with-your-domain.com/tags/poesia/</link>
+      <link>https://ucraman.github.io/tags/poesia/</link>
       <pubDate>Tue, 23 May 2017 00:19:06 -0300</pubDate>
       
-      <guid>http://replace-this-with-your-domain.com/tags/poesia/</guid>
+      <guid>https://ucraman.github.io/tags/poesia/</guid>
       <description></description>
     </item>
     
