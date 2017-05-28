@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matematica, es personal.</title>
+    <title>Matemática, es personal.</title>
     <link>https://ucraman.github.io/</link>
-    <description>Recent content on Matematica, es personal.</description>
+    <description>Recent content on Matemática, es personal.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 00:19:06 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ucraman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hoy, mi neblina.</title>
-      <link>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</link>
-      <pubDate>Tue, 23 May 2017 00:19:06 -0300</pubDate>
-      
-      <guid>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</guid>
-      <description>El agua me guiaba y me ahogaba.
-Me guiaba.
-Me abrazaba.
-Me enseñaba.
-Abro los ojos y no veo.
-Desierto frio.
-Abro los ojos y no veo.
-Desaprendo.
-Abro los ojos y no veo.
-Me ahogo.
-Abro los ojos y empiezo a ver.</description>
-    </item>
-    
-    <item>
-      <title>Ayer, mi experiencia. </title>
+      <title>Ayer, mi experiencia.</title>
       <link>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-1/</link>
-      <pubDate>Tue, 23 May 2017 00:04:11 -0300</pubDate>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-1/</guid>
       <description>Nadando en aguas abiertas.
@@ -48,6 +29,25 @@ Se inunda mi pecho.
 Abro los ojos.
 El desierto.
 Deseo ahogarme.</description>
+    </item>
+    
+    <item>
+      <title>Hoy, mi neblina.</title>
+      <link>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</guid>
+      <description>El agua me guiaba y me ahogaba.
+Me guiaba.
+Me abrazaba.
+Me enseñaba.
+Abro los ojos y no veo.
+Desierto frio.
+Abro los ojos y no veo.
+Desaprendo.
+Abro los ojos y no veo.
+Me ahogo.
+Abro los ojos y empiezo a ver.</description>
     </item>
     
   </channel>
