@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poesia on Matemática, es personal.</title>
-    <link>https://ucraman.github.io/tags/poesia/</link>
-    <description>Recent content in Poesia on Matemática, es personal.</description>
+    <title>Poesia on Matematica, es personal.</title>
+    <link>http://replace-this-with-your-domain.com/tags/poesia/</link>
+    <description>Recent content in Poesia on Matematica, es personal.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Tue, 23 May 2017 00:19:06 -0300</lastBuildDate>
     
-	<atom:link href="https://ucraman.github.io/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://replace-this-with-your-domain.com/tags/poesia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hoy, mi neblina.</title>
-      <link>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</link>
+      <link>http://replace-this-with-your-domain.com/poem/mi-experiencia-mi-neblina-2/</link>
       <pubDate>Tue, 23 May 2017 00:19:06 -0300</pubDate>
       
-      <guid>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-2/</guid>
+      <guid>http://replace-this-with-your-domain.com/poem/mi-experiencia-mi-neblina-2/</guid>
       <description>El agua me guiaba y me ahogaba.
 Me guiaba.
 Me abrazaba.
@@ -32,10 +33,10 @@ Abro los ojos y empiezo a ver.</description>
     
     <item>
       <title>Ayer, mi experiencia. </title>
-      <link>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-1/</link>
+      <link>http://replace-this-with-your-domain.com/poem/mi-experiencia-mi-neblina-1/</link>
       <pubDate>Tue, 23 May 2017 00:04:11 -0300</pubDate>
       
-      <guid>https://ucraman.github.io/poem/mi-experiencia-mi-neblina-1/</guid>
+      <guid>http://replace-this-with-your-domain.com/poem/mi-experiencia-mi-neblina-1/</guid>
       <description>Nadando en aguas abiertas.
 Mis brazos rotos.
 Mis remos cansados.
